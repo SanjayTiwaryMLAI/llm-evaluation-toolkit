@@ -1,0 +1,13 @@
+openai==1.30.0
+langchain==0.2.0
+langchain-openai==0.1.0
+transformers==4.41.0
+torch==2.3.0
+datasets==2.19.0
+langsmith==0.1.70
+arize-phoenix==4.0.0
+ragas==0.1.9
+sentence-transformers==3.0.0
+pandas==2.2.2
+matplotlib==3.9.0
+python-dotenv==1.0.0
